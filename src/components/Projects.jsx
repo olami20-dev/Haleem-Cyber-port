@@ -7,8 +7,8 @@ import bea1 from "../assets/bae1.png";
 import bea2 from "../assets/bea2.png";
 import cam1 from "../assets/cam1.png";
 import cam2 from "../assets/cam2.png";
-import pig1 from "../assets/pig1.png";
-import pig2 from "../assets/pig2.png";
+import pig1 from "../assets/Pig1.png";
+import pig2 from "../assets/Pig2.png";
 import nu1 from "../assets/nu1.png";
 import nu2 from "../assets/nu2.png";
 
