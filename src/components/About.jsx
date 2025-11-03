@@ -6,7 +6,7 @@ export default function About() {
   return (
     <section className="about-section" id="about">
       <div className="about-container">
-        {/* Left side - Text */}
+       
         <Fade direction="left" triggerOnce>
           <div className="about-content">
             <h2 className="about-title">About Me</h2>
@@ -26,7 +26,7 @@ export default function About() {
           </div>
         </Fade>
 
-        {/* Right side - Stacks */}
+       
         <Zoom triggerOnce>
           <div className="stack-box">
             <h3>Tech Stack</h3>

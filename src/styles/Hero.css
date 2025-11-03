@@ -12,7 +12,7 @@
   box-sizing: border-box;
 }
 
-/* glowing orb / gradient */
+
 .hero-glow {
   position: absolute;
   right: -200px;
@@ -25,7 +25,7 @@
   z-index: 0;
 }
 
-/* content */
+
 .hero-content {
   z-index: 2;
   max-width: 600px;
@@ -87,7 +87,6 @@
   transform: scale(1.05);
 }
 
-/* 📱 Responsive Design */
 @media (max-width: 1024px) {
   .hero {
     flex-direction: column;

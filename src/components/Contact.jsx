@@ -13,7 +13,7 @@ export default function Contact() {
       </Fade>
 
       <div className="contact-container">
-        {/* Contact Form */}
+        
         <Zoom triggerOnce>
           <form
             className="contact-form"
@@ -39,7 +39,7 @@ export default function Contact() {
           </form>
         </Zoom>
 
-        {/* Contact Info */}
+      
         <Fade direction="right" triggerOnce>
           <div className="contact-info">
             <h3>Connect With Me</h3>

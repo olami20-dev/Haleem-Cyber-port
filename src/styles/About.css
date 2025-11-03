@@ -20,7 +20,6 @@
   gap: 4rem;
 }
 
-/* LEFT SIDE */
 .about-content {
   flex: 1;
   min-width: 500px;
@@ -47,7 +46,7 @@
   font-weight: 600;
 }
 
-/* RIGHT SIDE */
+
 .stack-box {
   flex: 1;
   min-width: 400px;
@@ -120,11 +119,7 @@
   margin: 0;
 }
 
-/* ---------------------------------- */
-/* 📱 RESPONSIVE DESIGN */
-/* ---------------------------------- */
 
-/* Tablet (up to 1024px) */
 @media (max-width: 1024px) {
   .about-container {
     flex-direction: column;
@@ -157,7 +152,7 @@
   }
 }
 
-/* Mobile (up to 768px) */
+
 @media (max-width: 768px) {
   .about-section {
     padding: 80px 5%;
@@ -201,7 +196,7 @@
   }
 }
 
-/* Small Phones (up to 480px) */
+
 @media (max-width: 480px) {
   .about-section {
     padding: 60px 4%;

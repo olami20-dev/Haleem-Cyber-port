@@ -15,7 +15,7 @@
   display: inline-block;
 }
 
-/* Container for all projects */
+
 .projects-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -23,7 +23,7 @@
   justify-items: center;
 }
 
-/* Individual Project Card */
+
 .project-card {
   position: relative;
   background: rgba(15, 15, 35, 0.8);
@@ -52,13 +52,13 @@
   transition: opacity 0.4s ease, filter 0.4s ease;
 }
 
-/* Hover glow intensifies */
+
 .project-card:hover::before {
   opacity: 0.7;
   filter: blur(45px);
 }
 
-/* Content Layer */
+
 .project-card * {
   position: relative;
   z-index: 2;
@@ -96,7 +96,7 @@
   transform: translateY(-6px) scale(1.05);
 }
 
-/* Overlay Button */
+
 .overlay {
   position: absolute;
   top: 0;
@@ -191,7 +191,7 @@
 }
 
 
-/* Project Title */
+
 .project-title {
   font-size: 1.3rem;
   font-weight: 600;
